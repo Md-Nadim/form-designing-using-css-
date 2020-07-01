@@ -1,0 +1,15 @@
+input[type=text]{
+    width: 100%;
+    padding: 10px 20px;
+    margin: 20px 0;
+    box-sizing: border-box;
+    border: 3px solid salmon;
+    border-radius: 5px;
+}
+#search{
+    background-image: url("images/i-con.png");
+    background-repeat: no-repeat;
+    background-position: 8px 13px;
+    font-size: 1rem;
+    padding: 15px 40px;
+}
